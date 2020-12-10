@@ -1,2 +1,2 @@
 # portfolio
-projects that interest me
+projects that interest me.
